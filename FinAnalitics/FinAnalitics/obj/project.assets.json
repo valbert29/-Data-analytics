@@ -11804,11 +11804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darya\\source\\repos\\FinAnalitics\\FinAnalitics\\FinAnalitics.csproj",
+      "projectUniqueName": "C:\\Users\\darya\\OneDrive\\Рабочий стол\\семестровка\\-Data-analytics\\FinAnalitics\\FinAnalitics\\FinAnalitics.csproj",
       "projectName": "FinAnalitics",
-      "projectPath": "C:\\Users\\darya\\source\\repos\\FinAnalitics\\FinAnalitics\\FinAnalitics.csproj",
+      "projectPath": "C:\\Users\\darya\\OneDrive\\Рабочий стол\\семестровка\\-Data-analytics\\FinAnalitics\\FinAnalitics\\FinAnalitics.csproj",
       "packagesPath": "C:\\Users\\darya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darya\\source\\repos\\FinAnalitics\\FinAnalitics\\obj\\",
+      "outputPath": "C:\\Users\\darya\\OneDrive\\Рабочий стол\\семестровка\\-Data-analytics\\FinAnalitics\\FinAnalitics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
